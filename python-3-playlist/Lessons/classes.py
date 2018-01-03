@@ -1,4 +1,7 @@
 class Planet:
+
+  #Class level attribute (ie. all planets are round)
+  shape = 'round'
   
   def __init__(self, name, radius, gravity, system):
     self.name = name
@@ -8,6 +11,15 @@ class Planet:
 
   def orbit(self):
     return f'{self.name} is orbiting in the {self.system}'
+
+  @classmethod 
+  def commons(cls):
+    return f'All planets are {cls.shape}'
+
+  @staticmethod
+  #Only has access to parameters passed into
+  def spin(speed='2000 mph'):
+    return f'The planet spins and spins at {speed}'
 
 hoth = Planet('Hoth', 2000, 5.5, 'Hoth System')
 print(f'Name is: {hoth.name}')
@@ -20,3 +32,5 @@ print(f'Name is: {naboo.name}')
 print(f'Radius is: {naboo.radius}')
 print(f'The gravity is: {naboo.gravity}')
 print(naboo.orbit())
+print(naboo.commons())
+print(Planet.spin('3000 mph'))
