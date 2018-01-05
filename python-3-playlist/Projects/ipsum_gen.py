@@ -6,7 +6,7 @@ ninja_words = [
 ]
 
 def ninjarize(word):
-  random_pos = randint(0, len(ninja_words ) - 1)
+  random_pos = randint(0, len(ninja_words) - 1)
   return f'{word} {ninja_words[random_pos]}'
 
 paragraphs = int(input('Enter how many paragraphs you would like generated: '))
