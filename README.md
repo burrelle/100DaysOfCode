@@ -4,5 +4,6 @@
 Day 1: Python Tutorial - Net Ninja  
 Day 2: Python Tutorial - Net Ninja  
 Day 3: Python Tutorial - Net Ninja  
-Day 4: Python Tutorial - Net Nenja & Simple Projects
+Day 4: Python Tutorial - Net Nenja & Simple Projects  
+Day 5: Hangman game
 
