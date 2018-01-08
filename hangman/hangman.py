@@ -1,9 +1,11 @@
 from hangman_methods import output_spaces, guess, hangman_icon
+import os
 
 print('Welcome to a version of hangman. Python Language. ')
 
 secret_word = input('Please enter the secret word: ')
 spaces = len(secret_word)
+os.system('clear')
 
 spaces_list = output_spaces(spaces)
 print(spaces_list)
