@@ -7,4 +7,5 @@ Day 3: Python Tutorial - Net Ninja
 Day 4: Python Tutorial - Net Nenja & Simple Projects  
 Day 5: Hangman game  
 Day 6: Finished hangman game  
+Day 7: Started Winter Term (CS) - Bash Scripting / OS Install
 
