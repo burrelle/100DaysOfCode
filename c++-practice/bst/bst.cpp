@@ -8,6 +8,7 @@ bst::bst()
 
 bst::~bst()
 {
+  //TODO: Add destructor to delete all nodes.
 }
 
 void bst::insert(int value)
