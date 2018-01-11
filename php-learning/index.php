@@ -1,12 +1,12 @@
 <?php
 
-$task = [
-  'title' => 'Daily Code',
-  'due' => '11:59 pm',
-  'completed' => true
-];
+$animals = ['dog', 'cat'];
 
-var_dump($task);
+require 'functions.php';
 
+// dd($animals);
+echo ageVerify(12) . "\n";
+echo ageVerify(21) . "\n";
+echo ageVerify(45) . "\n";
 
-require 'index.view.php';
+// require 'index.view.php';
