@@ -1,8 +1,9 @@
 <?php
 
-require 'Task.php';
-$qb = require 'bootstrap.php';
+require 'core/bootstrap.php';
 
-$tasks = $qb->selectAll('todos');
+$router = new Router;
+require 'routes.php';
 
-require 'index.view.php';
+require Router::load('routes.php')
+  ->direct(Request::uri());

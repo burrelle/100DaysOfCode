@@ -10,5 +10,6 @@ Day 6: Finished hangman game
 Day 7: Started Winter Term (CS) - Bash Scripting / OS Install  
 Day 8: Data Structure Review in C++  
 Day 9: C# Unit Testing & PHP  
-Day 10: PHP - Laracast 
+Day 10: PHP - Laracast  
+Day 11: PHP - Laracast & Algorithms in Python (Homework)  
 
