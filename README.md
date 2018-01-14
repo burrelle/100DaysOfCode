@@ -12,4 +12,5 @@ Day 8: Data Structure Review in C++
 Day 9: C# Unit Testing & PHP  
 Day 10: PHP - Laracast  
 Day 11: PHP - Laracast & Algorithms in Python (Homework)  
+Day 12: Algorithms in Python  
 
