@@ -3,5 +3,8 @@
     "classmap": [
       "./"
     ]
+  },
+  "config": {
+    "preferred-install": "dist"
   }
 }
