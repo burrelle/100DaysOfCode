@@ -13,5 +13,7 @@ Day 9: C# Unit Testing & PHP
 Day 10: PHP - Laracast  
 Day 11: PHP - Laracast & Algorithms in Python (Homework)  
 Day 12: Algorithms in Python  
-Day 13: Algorithms in Python 
+Day 13: Algorithms in Python  
+Day 14: PHP - Laracast  
+Day 15: PHP - Laracast   
 
