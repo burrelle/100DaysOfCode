@@ -16,5 +16,9 @@ Day 12: Algorithms in Python
 Day 13: Algorithms in Python  
 Day 14: PHP - Laracast  
 Day 15: PHP - Laracast  
-Day 16: Laravel   
+Day 16: Laravel  
+Day 17: Laravel - laravel-screencast repo  
+Day 18: Laravel - laravel-screencast repo  
+Day 19: Laravel - laravel-screencast repo  
+Day 20: Laravel - laravel-screencast repo
 
