@@ -20,6 +20,8 @@ Day 16: Laravel
 Day 17: Laravel - laravel-screencast repo  
 Day 18: Laravel - laravel-screencast repo  
 Day 19: Laravel - laravel-screencast repo  
-Day 20: Laravel - laravel-screencast repo  
-Day 21: Laravel, git, and TDD
+Day 20: Laravel - laravel-screencast repo    
+Day 21: Laravel - laravel-screencast repo  
+Day 22: Laravel, git, and TDD  
+Day 23: TDD
 
