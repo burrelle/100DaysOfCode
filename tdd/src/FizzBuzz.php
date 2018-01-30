@@ -6,7 +6,7 @@ class FizzBuzz
     $result = [];
     for( $i = 0 ; $i < count($number); ++$i)
     {
-      if ($number[$i] >= 0){
+      if ($number[$i] > 0){
           if($number[$i] % 3 == 0 and $number[$i] % 5 == 0){
             $result[] = "fizz buzz";
           }
