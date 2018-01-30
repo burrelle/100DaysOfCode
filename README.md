@@ -23,5 +23,6 @@ Day 19: Laravel - laravel-screencast repo
 Day 20: Laravel - laravel-screencast repo    
 Day 21: Laravel - laravel-screencast repo  
 Day 22: Laravel, git, and TDD  
-Day 23: TDD
+Day 23: TDD  
+Day 24: Bash and LAMP Stack setup
 
