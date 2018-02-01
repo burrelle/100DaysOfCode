@@ -1,8 +1,8 @@
 <?php
 
-namespace spec;
+namespace spec\Acme;
 
-use StringCalculator;
+use Acme\StringCalculator;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 

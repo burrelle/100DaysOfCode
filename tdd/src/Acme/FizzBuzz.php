@@ -1,5 +1,7 @@
 <?php
 
+namespace Acme;
+
 class FizzBuzz
 {
   function readout($number){

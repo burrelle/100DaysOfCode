@@ -1,6 +1,6 @@
 <?php
 
-namespace spec;
+namespace spec\Acme;
 
 use RomanNumeralsConverter;
 use PhpSpec\ObjectBehavior;

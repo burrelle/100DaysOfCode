@@ -1,8 +1,8 @@
 <?php
 
-namespace spec;
+namespace spec\Acme;
 
-use BowlingGame;
+use Acme\BowlingGame;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace spec;
+namespace spec\Acme;
 
-use FizzBuzz;
+use Acme\FizzBuzz;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 

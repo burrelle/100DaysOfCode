@@ -1,5 +1,7 @@
 <?php
 
+namespace Acme;
+
 class StringCalculator
 {
   const MAX_NUMBER_ALLOWED = 1000;

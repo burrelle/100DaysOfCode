@@ -1,5 +1,7 @@
 <?php
 
+namespace Acme;
+
 class RomanNumeralsConverter
 {
   // Any number less than 5000

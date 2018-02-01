@@ -1,5 +1,7 @@
 <?php
 
+namespace Acme;
+
 class BowlingGame
 {
   protected $pins = 0;

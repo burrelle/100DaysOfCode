@@ -1,8 +1,8 @@
 <?php
 
-namespace spec;
+namespace spec\Acme;
 
-use PrimeFactors;
+use Acme\PrimeFactors;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 
