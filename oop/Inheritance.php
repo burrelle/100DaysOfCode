@@ -65,7 +65,7 @@ abstract class Mailer {
 class UserMail extends Mailer {
   public function sendWelcomeEmail(User $user)
   {
-    return $this->send($user->email, ..., ...);
+    // return $this->send($user->email, ..., ...);
   }
 }
 
