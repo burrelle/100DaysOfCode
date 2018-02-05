@@ -32,10 +32,6 @@ Day 28: TDD
 Day 29: TDD  
 Day 30: TDD  
 Day 31: Object Oriented Programming  
-<<<<<<< HEAD
 Day 32: VueJS  
 Day 33: Algorithms in Python      
-=======
-Day 32: Object Oriented Programming
->>>>>>> 7af0f939c98013adc61e64abb7151ceee9014d86
 
