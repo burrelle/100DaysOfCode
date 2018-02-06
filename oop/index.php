@@ -2,4 +2,4 @@
 
 require 'vendor/autoload.php';
 
-require 'example.php';
+require 'ex.php';
