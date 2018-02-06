@@ -33,5 +33,7 @@ Day 29: TDD
 Day 30: TDD  
 Day 31: Object Oriented Programming  
 Day 32: VueJS  
-Day 33: Algorithms in Python      
+Day 33: Algorithms in Python  
+Day 34: VueJS  
+Day 35: VueJS and Solid Methods        
 
