@@ -1,0 +1,19 @@
+#! /usr/bin/env php
+
+<?php
+
+use Acme\NewCommand;
+use Acme\RenderCommand;
+use Symfony\Component\Console\Application;
+
+require 'vendor/autoload.php';
+
+$app = new Application('Laracast Demo', '1.0');
+
+$app->register('new');
+$app->register('render');
+
+$app->add(new NewCommand(new GuzzleHttp\Client));
+$app->add(new RenderCommand);
+
+$app->run();
