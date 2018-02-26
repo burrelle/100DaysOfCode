@@ -36,7 +36,6 @@ Day 32: VueJS
 Day 33: Algorithms in Python  
 Day 34: VueJS  
 Day 35: VueJS and Solid Methods  
-<<<<<<< HEAD
 Day 36: VueJS  
 Day 37: Symfony Console Application  
 Day 38: VueJS and Laravel    
@@ -45,11 +44,4 @@ Day 40: VueJS and Laravel
 Day 41: VueJS Weather Application  
 Day 42: VueJS Weather Application  
 Day 43: VueJS / BulmaCSS  
-=======
-Day 36: Symfony Console Application   
-Day 37: Symfony Console Application  
-Day 38: VueJS  
-Day 39: VueJS  
-Day 40: VueJS  
->>>>>>> 4154c91f7066ca8369d3a2966de0ba143b81ea98
 
