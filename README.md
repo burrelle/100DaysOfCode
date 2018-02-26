@@ -35,5 +35,13 @@ Day 31: Object Oriented Programming
 Day 32: VueJS  
 Day 33: Algorithms in Python  
 Day 34: VueJS  
-Day 35: VueJS and Solid Methods        
+Day 35: VueJS and Solid Methods  
+Day 36: VueJS  
+Day 37: Symfony Console Application  
+Day 38: VueJS and Laravel    
+Day 39: VueJS and Laravel    
+Day 40: VueJS and Laravel    
+Day 41: VueJS Weather Application  
+Day 42: VueJS Weather Application  
+Day 43: VueJS / BulmaCSS  
 
