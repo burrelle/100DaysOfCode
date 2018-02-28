@@ -44,4 +44,5 @@ Day 40: VueJS and Laravel
 Day 41: VueJS Weather Application  
 Day 42: VueJS Weather Application  
 Day 43: VueJS / BulmaCSS  
+Day 44: Single Page Application (Vue and Laravel) 
 
